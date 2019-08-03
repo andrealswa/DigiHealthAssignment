@@ -1,0 +1,47 @@
+/*
+  Customize login with padding on either side.
+*/
+.padding {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.padding-login {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+}
+
+.chart {
+  width: 100%; 
+  min-height: 450px;
+}
+
+.row {
+  margin:0 !important;
+}
+
+.jumbo {
+  padding-top:5px
+}
+.up {
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  background-color: #eee;
+  top: -2.5rem;
+  right: 5rem;
+  border-radius: 100%;
+  display: flex;
+  animation: pulse 2s infinite;
+  cursor: pointer;
+}
+
+.up i {
+      color: #888889;
+      font-size: 2rem;
+      margin: auto;
+}
