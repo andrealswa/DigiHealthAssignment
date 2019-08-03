@@ -180,7 +180,7 @@
   <div class="padding">
     <div class="card-deck">
       <div class="card">
-        <img src="../pictures/loginex1.jpg" class="card-img-top" alt="...">
+        <img src="../pictures/loginex1.jpg" class="card-img-top" alt="Doctor with clipboard">
         <div class="card-body">
           <h5 class="card-title">Doctor</h5>
           <p class="card-text">Username: DrBell</p>
@@ -191,7 +191,7 @@
         </div>
       </div>
       <div class="card">
-        <img src="../pictures/loginex2.jpg" class="card-img-top" alt="...">
+        <img src="../pictures/loginex2.jpg" class="card-img-top" alt="Nurse with image">
         <div class="card-body">
           <h5 class="card-title">Nurse</h5>
           <p class="card-text">Username: NurseRice</p>
@@ -202,7 +202,7 @@
         </div>
       </div>
       <div class="card">
-        <img src="../pictures/loginex3.jpg" class="card-img-top" alt="...">
+        <img src="../pictures/loginex3.jpg" class="card-img-top" alt="Patient in bed">
         <div class="card-body">
           <h5 class="card-title">Patient</h5>
           <p class="card-text">Username: ZohaHolder</p>
