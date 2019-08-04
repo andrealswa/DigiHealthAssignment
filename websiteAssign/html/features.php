@@ -44,7 +44,7 @@
 
       <div class="padding">
         <div class="jumbotron">
-          <h1 class="display-4">Users for Your Health Insitution</h1>
+          <h1 class="display-4">Users for Your Health Institution</h1>
           <p class="lead">Doctors, Nurses, Patients</p>
           <hr class="my-4">
           <p>Try out our system by logging in as a doctor, nurse or as a patient to see how our technology can transform the way you deliver care</p>
